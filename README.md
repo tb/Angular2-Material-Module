@@ -9,4 +9,5 @@ Copy/paste the Ng2-Material dependencies from the package.json file in this repo
 Also copy the material.module.ts into your project somewhere.
 Install the module as a shared module, into your main application module.
 
-
+# Optional dependencies
+Install hammer.js (included in package.json) to your project if you want to use md-slide-toggle or md-slider.
