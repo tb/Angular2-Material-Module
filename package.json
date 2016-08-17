@@ -1,0 +1,43 @@
+{
+  "name": "angular2-material-module",
+  "version": "1.0.0",
+  "description": "A collection of Angular2 Material design components into a single ngModule you can import into your project.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spock123/Angular2-Material-Module.git"
+  },
+  "keywords": [
+    "Angular2",
+    "Material",
+    "dependencies",
+    "ngModule"
+  ],
+  "author": "Lars Rye Jeppesen <lars.jeppesen@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/spock123/Angular2-Material-Module/issues"
+  },
+  "homepage": "https://github.com/spock123/Angular2-Material-Module#readme",
+
+  "devDependencies": {
+    "@angular2-material/button": "2.0.0-alpha.7-3",
+    "@angular2-material/button-toggle": "2.0.0-alpha.7-3",
+    "@angular2-material/card": "2.0.0-alpha.7-3",
+    "@angular2-material/checkbox": "2.0.0-alpha.7-3",
+    "@angular2-material/core": "2.0.0-alpha.7-3",
+    "@angular2-material/grid-list": "2.0.0-alpha.7-3",
+    "@angular2-material/icon": "2.0.0-alpha.7-3",
+    "@angular2-material/input": "2.0.0-alpha.7-3",
+    "@angular2-material/list": "2.0.0-alpha.7-3",
+    "@angular2-material/menu": "2.0.0-alpha.7-3",
+    "@angular2-material/progress-bar": "2.0.0-alpha.7-3",
+    "@angular2-material/progress-circle": "2.0.0-alpha.7-3",
+    "@angular2-material/radio": "2.0.0-alpha.7-3",
+    "@angular2-material/sidenav": "2.0.0-alpha.7-3",
+    "@angular2-material/slide-toggle": "2.0.0-alpha.7-3",
+    "@angular2-material/slider": "2.0.0-alpha.7-3",
+    "@angular2-material/tabs": "2.0.0-alpha.7-3",
+    "@angular2-material/toolbar": "2.0.0-alpha.7-3",
+    "@angular2-material/tooltip": "2.0.0-alpha.7-3"
+  }
+}
